@@ -4,10 +4,10 @@ body {
 h1 {
     border: 1px solid lightcyan;
     background-color: lightgreen;
-    padding-top: 50px;
-    padding-right: 30px;
-    padding-left: 30px;
-    padding-bottom: 50px;
+    padding-top: 5%;
+    padding-right: 10%;
+    padding-left: 10%;
+    padding-bottom: 5%;
 }
 
 h3 {
@@ -75,4 +75,12 @@ div.gallery:hover {
 }
 img {
     vertical-align: middle;
+}
+.inner-content {
+    float: right;
+    padding-right: 10%;
+}
+.profile {
+    float: left;
+    padding: 5%;
 }
