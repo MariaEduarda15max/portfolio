@@ -76,6 +76,10 @@ div.gallery:hover {
 img {
     vertical-align: middle;
 }
+.galleryy {
+    width: 80%;
+    
+}
 .inner-content {
     float: right;
     padding-right: 10%;
